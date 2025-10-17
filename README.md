@@ -7,4 +7,7 @@ Voici les assets utilisés :
 
 https://brackeysgames.itch.io/brackeys-platformer-bundle 
 
-Et des images à ce à quoi cela peut ressembler : 
+Et une image à ce à quoi cela peut ressembler : 
+
+<img src="images/chevalier.png" width="500" height="600"/>
+
